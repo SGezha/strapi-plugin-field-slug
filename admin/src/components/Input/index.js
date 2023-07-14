@@ -98,7 +98,7 @@ const Index = ({ name, value, intlLabel, attribute }) => {
   if (attribute.options?.pattern == "title") {
     useEffect(() => {
       if (modifiedData.title) {
-        generateSlug_by_Title();
+        // generateSlug_by_Title();
       }
     }, [modifiedData.title]);
   } else if (attribute.options?.pattern == "id") {
