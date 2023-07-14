@@ -1,5 +1,5 @@
 {
-  "name": "custom-slug",
+  "name": "sgezha-custom-slug",
   "version": "2.1.1",
   "description": "Auto Generated rewritable Slug field (same for different locales).",
   "strapi": {
